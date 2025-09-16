@@ -5,6 +5,14 @@ It is designed for food recommendations, user preference tracking, and testing m
 
 ---
 
+## 📥 Clone the Repository
+
+First, clone the repository from GitHub and move into the project folder:
+
+```bash
+git clone https://github.com/kml-coder/MealMind.git
+cd MealMind
+
 ## 📂 Project Structure
 
 ```
