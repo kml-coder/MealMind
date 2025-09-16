@@ -1,0 +1,10 @@
+📅 Timestamp: None
+📍 Location: None
+📷 Device: None
+
+🍽 Prediction Results:
+- pancakes: 99.99%
+- waffles: 0.00%
+- huevos_rancheros: 0.00%
+- omelette: 0.00%
+- french_toast: 0.00%

@@ -1,0 +1,18 @@
+{
+  "user_id": "user_B",
+  "original_cultures": [
+    "American",
+    "Chinese"
+  ],
+  "recent_cultures": [
+    "American"
+  ],
+  "dietary_restrictions": [
+    "Halal",
+    "Vegetarian"
+  ],
+  "allergies": [
+    "Peanut",
+    "Wheat"
+  ]
+}

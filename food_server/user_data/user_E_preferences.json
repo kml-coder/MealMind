@@ -1,0 +1,19 @@
+{
+  "user_id": "user_E",
+  "original_cultures": [
+    "American",
+    "Japanese",
+    "Korean"
+  ],
+  "recent_cultures": [
+    "American",
+    "Korean"
+  ],
+  "dietary_restrictions": [
+    "Halal"
+  ],
+  "allergies": [
+    "Seafood",
+    "Wheat"
+  ]
+}
