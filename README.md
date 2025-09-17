@@ -1,4 +1,4 @@
-# MealMind 🍴
+# MealMind 🍴 (Work in Progress 🚧)
 
 **MealMind** is a project that combines a Flutter-based mobile app and a Python backend server.  
 It is designed for food recommendations, user preference tracking, and testing machine learning models for food-related data.
